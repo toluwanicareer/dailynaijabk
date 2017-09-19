@@ -863,4 +863,13 @@ footer .input-group{
     
 }
 
+<<<<<<< HEAD
 /*Footer Ends*/
+=======
+@media only screen and (max-width: 768px){
+	#footerLogoImg{
+    	height: 60px;
+    	margin: 20px auto;
+    }
+}
+>>>>>>> 384a2d7dd43e9051dfb074f9c424a19df7999548
