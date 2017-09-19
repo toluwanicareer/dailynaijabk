@@ -66,7 +66,7 @@ INSTALLED_APPS = [
     'blog',
     'haystack',
     'imagefit',
-    'newsletter_signup',
+#    'newsletter_signup',
     'django.contrib.sites',
 ]
 
@@ -84,7 +84,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'mysite.urls'
-#FROM_EMAIL='myschoolrents@gmail.com'
+FROM_EMAIL='myschoolrents@gmail.com'
 
 TEMPLATES = [
     {
