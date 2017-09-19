@@ -64,6 +64,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'bootstrap3',
     'blog',
+    'imagefit',
     'haystack',
     'django.contrib.sites',
 ]
